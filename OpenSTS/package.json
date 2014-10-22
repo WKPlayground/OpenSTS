@@ -1,0 +1,13 @@
+{
+  "name": "OpenSTS",
+  "version": "0.0.0",
+  "description": "OpenSTS",
+  "main": "app.js",
+  "author": {
+    "name": "Edgar.Sanchez",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4"
+  }
+}
